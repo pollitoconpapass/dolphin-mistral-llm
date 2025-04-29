@@ -1,4 +1,4 @@
-chainlit==1.1.404
+chainlit==2.5.5
 langchain==0.2.16
 langchain_community==0.3.0
 langchain-ollama==0.2.2
